@@ -4,7 +4,6 @@ from tkinter import ttk
 # We will need random to create array
 import random
 
-
 # Creating a basic window
 window = Tk()
 window.title("Algorithms Visualizer")
